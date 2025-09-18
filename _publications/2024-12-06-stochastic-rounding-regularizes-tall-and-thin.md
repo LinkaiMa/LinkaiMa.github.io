@@ -13,5 +13,5 @@ category: manuscripts
 doi: "10.1137/24M1647679"
 paperurl: "https://epubs.siam.org/doi/10.1137/24M1647679"
 arxiv: "https://arxiv.org/abs/2403.12278"
-excerpt: "We analyze when stochastic rounding acts as an implicit regularizer for tall-and-thin linear systems."
+excerpt: "Regularization effect of SR on smallest singular values of tall and thin matrices."
 ---
