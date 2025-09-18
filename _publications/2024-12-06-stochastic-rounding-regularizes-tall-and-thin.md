@@ -1,5 +1,5 @@
 ---
-pdf: /files/SR_paper.pdf
+pdf:"{{ site.baseurl }}/files/SR_paper.pdf"
 title: "Stochastic Rounding Implicitly Regularizes Tall-and-Thin Matrices"
 authors:
   - "Gregory Dexter"
