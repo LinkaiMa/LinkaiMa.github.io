@@ -1,5 +1,6 @@
 ---
 title: "CS514 Numerical Analysis"
+nolink: true
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-spring-teaching
