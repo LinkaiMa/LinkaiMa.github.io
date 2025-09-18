@@ -12,7 +12,7 @@ I’m **Linkai Ma**, a 3rd year Ph.D. student in Computer Science at **Purdue Un
 
 ### Projects
 - **Stochastic Rounding Implicitly Regularizes Tall-and-Thin Matrices.** When/how stochastic rounding regularizes the smallest singular value of a matrix.
- -**A Note on the Stability of the Sherman-Morrison-Woodbury.** How does matrix inversion errors propagate through SMW.
+- **A Note on the Stability of the Sherman-Morrison-Woodbury.** How does matrix inversion errors propagate through SMW.
 
 
 ### Teaching 
