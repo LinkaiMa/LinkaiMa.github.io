@@ -6,7 +6,8 @@ redirect_from:
   - /about.html
 ---
 
-I’m **Linkai Ma**, a 3rd year Ph.D. student in Computer Science at **Purdue University**, advised by [**Petros Drineas**](https://www.cs.purdue.edu/homes/pdrineas/). Before Purdue, I completed my **B.A./M.S. in Mathematics** at NYU’s [**Courant Institute of Mathematical Sciences**](https://cims.nyu.edu/dynamic/).  My research sits at the intersection of **numerical linear algebra**, **randomized algorithms**, and **theoretical machine learning**. I am especially interested in the regularization effects of stochastic rounding/quantization on linear systems and more complex models such as neural networks. My broader goal is to connect rigorous analysis (perturbation theory, concentration, random matrix tools) with **scalable, reliable numerical methods** for modern ML systems.
+I’m **Linkai Ma**, a 3rd year Ph.D. student in Computer Science at **Purdue University**, advised by [**Petros Drineas**](https://www.cs.purdue.edu/homes/pdrineas/). Before Purdue, I completed my **B.A./M.S. in Mathematics** at NYU’s [**Courant Institute of Mathematical Sciences**](https://cims.nyu.edu/dynamic/). I completed my [master thesis]({{ "/files/Master_Thesis.pdf" | relative_url }}) under the supervision of Professor Jonathan Weare.
+  My research sits at the intersection of **numerical linear algebra**, **randomized algorithms**, and **theoretical machine learning**. I am especially interested in the regularization effects of stochastic rounding/quantization on linear systems and more complex models such as neural networks. My broader goal is to connect rigorous analysis (perturbation theory, concentration, random matrix tools) with **scalable, reliable numerical methods** for modern ML systems.
 
 
 ### Projects
