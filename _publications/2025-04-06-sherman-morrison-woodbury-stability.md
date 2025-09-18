@@ -1,4 +1,5 @@
 ---
+pdf: /files/SMW_paper.pdf
 title: "A Note on the Stability of the Sherman–Morrison–Woodbury Formula"
 authors:
   - "Linkai Ma"
