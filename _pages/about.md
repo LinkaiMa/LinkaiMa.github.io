@@ -11,8 +11,8 @@ I’m **Linkai Ma**, a 3rd year Ph.D. student in Computer Science at **Purdue Un
 My current research sits at the intersection of **numerical linear algebra**, **randomized algorithms**, and **theoretical machine learning**. I am especially interested in the regularization effects of stochastic rounding/quantization on linear systems and more complex models such as neural networks. My broader goal is to connect rigorous analysis (perturbation theory, concentration, random matrix tools) with **scalable, reliable numerical methods** for modern ML systems.
 
 ### Projects
-- **Stochastic Rounding Implicitly Regularizes Tall-and-Thin Matrices.** When/how stochastic rounding regularizes the smallest singular value of a matrix.
-- **A Note on the Stability of the Sherman-Morrison-Woodbury.** How does matrix inversion errors propagate through SMW.
+- [**Stochastic Rounding Implicitly Regularizes Tall-and-Thin Matrices**]({{ "/files/SR_paper.pdf" | relative_url }}) When/how stochastic rounding regularizes the smallest singular value of a matrix.
+- [**A Note on the Stability of the Sherman-Morrison-Woodbury**]({{ "/files/SMW_paper.pdf" | relative_url }}) How does matrix inversion errors propagate through SMW.
 
 
 ### Teaching 
