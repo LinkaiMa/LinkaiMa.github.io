@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,6 +21,4 @@ At Purdue, I've been a teaching assistant for both undergraduate and graduate le
 Outside research, I’m really into **music**, **traveling**, and **basketball**.
 
 ### Contact
-- Email: {{ site.email }}
-- GitHub: {{ site.github_username | prepend: "https://github.com/" }}
-- Google Scholar, ORCID, and other links are in the sidebar (configured via `_config.yml`).
+- Email: ma856@purdue.edu
