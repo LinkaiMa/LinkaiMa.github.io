@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Purdue CS Ph.D.; randomized NLA, optimization, ML theory; stochastic rounding."
+  bio              : "3rd year Purdue CS Ph.D. student"
   location         : "West Lafayette, IN"
   employer         : "Purdue University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ma856@purdue.edu" 
 
   # Academic websites
   # academia         : # URL
@@ -63,7 +63,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  # linkedin         : # Username
+  linkedin         : linkai-ma
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
