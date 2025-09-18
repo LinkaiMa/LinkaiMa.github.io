@@ -8,7 +8,7 @@ authors:
   - "Petros Drineas"
 venue: "arXiv"
 year: 2025
-category: manuscripts
+category: preprints
 arxiv: "https://arxiv.org/abs/2504.04554"
 excerpt: "Forward/backward error stability analysis for SMW."
 ---
