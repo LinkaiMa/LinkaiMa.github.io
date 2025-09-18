@@ -9,6 +9,7 @@ authors:
 venue: "arXiv"
 year: 2025
 category: preprints
+paperurl: "https://arxiv.org/abs/2504.04554"
 arxiv: "https://arxiv.org/abs/2504.04554"
 excerpt: "Forward/backward error stability analysis for SMW."
 ---
