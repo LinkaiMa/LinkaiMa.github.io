@@ -1,5 +1,5 @@
 ---
-pdf: "{{ site.baseurl }}/files/SMW_paper.pdf"
+pdf: "{{ '/files/SMW_paper.pdf' | relative_url }}"
 title: "A Note on the Stability of the Sherman–Morrison–Woodbury Formula"
 authors:
   - "Linkai Ma"
