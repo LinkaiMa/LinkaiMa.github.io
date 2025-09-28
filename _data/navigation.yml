@@ -23,8 +23,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /files/resume__Linkai_Ma_cv_Sep_25.pdf
     
   # - title: "CV"
   #   url: /cv-json/
