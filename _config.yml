@@ -23,7 +23,7 @@ repository               : "LinkaiMa/LinkaiMa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/mlk_image.jpg"
+  avatar           : "mlk_image.jpg"
   name             : "Linkai Ma"
   pronouns         : # example: "she/her"  
   bio              : "3rd year Purdue CS Ph.D. student"
