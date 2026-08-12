@@ -13,6 +13,7 @@ My current research sits at the intersection of **numerical linear algebra**, **
 ### Projects
 - [**Stochastic Rounding Implicitly Regularizes Tall-and-Thin Matrices**]({{ "/files/SR_paper.pdf" | relative_url }}) When/how stochastic rounding regularizes the smallest singular value of a matrix.
 - [**A Note on the Stability of the Sherman-Morrison-Woodbury**]({{ "/files/SMW_paper.pdf" | relative_url }}) How does matrix inversion errors propagate through SMW.
+- [**Stochastic Rounding Increases Small Singular Values**](https://arxiv.org/abs/2606.00312) Beyond extreme aspect ratios: stochastic rounding lifts entire clusters at the tail of the singular value spectrum.
 
 
 ### Teaching 
